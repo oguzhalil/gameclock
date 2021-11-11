@@ -1,0 +1,19 @@
+{
+  "name": "com.gamescripts.gameclock",
+  "version": "1.0.0",
+  "displayName": "GameClock",
+  "description": "Game Clock",
+  "unity": "2019.4",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "keywords": [
+    "stash",
+    "config",
+    "save"
+  ],
+  "author": {
+    "name": "Oguzhan Halil Bisgin",
+    "email": "oguzhan.halil@yandex.com.tr",
+    "url": "https://gitlab.com/matchingham-games/passion-punch/config-manager.git"
+  }
+}
