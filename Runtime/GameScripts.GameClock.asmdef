@@ -1,5 +1,6 @@
 {
-    "name": "PassionPunch.Stash",
+    "name": "GameScripts.GameClock",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

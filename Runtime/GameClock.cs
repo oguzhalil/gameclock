@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// ideas to improve game clock
+// stop and start feature for specific clocks
+// delete all clocks feature.
+// game pause and continue
+
 [DefaultExecutionOrder(-1000)]
 public class GameClock : MonoBehaviour
 {
@@ -83,7 +88,6 @@ public class GameClock : MonoBehaviour
         }
     }
 }
-
 
 public struct ClockParams
 {
