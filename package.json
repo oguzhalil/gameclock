@@ -7,13 +7,13 @@
   "unityRelease": "0b5",
   "dependencies": {},
   "keywords": [
-    "stash",
-    "config",
-    "save"
+    "gameclock",
+    "invoke",
+    "time"
   ],
   "author": {
     "name": "Oguzhan Halil Bisgin",
     "email": "oguzhan.halil@yandex.com.tr",
-    "url": "https://gitlab.com/matchingham-games/passion-punch/config-manager.git"
+    "url": "https://github.com/oguzhalil/gameclock.git"
   }
 }
