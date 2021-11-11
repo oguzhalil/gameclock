@@ -1,6 +1,6 @@
 # Basic Game Clock For Unity
 
-I found myself writing this code over and over again. So here is basic game clock for calling a function after certain time.
+I found myself writing this code over and over again. So here is basic game clock for calling a function after certain time.Check Examples/SampleScene for working demo.
 
 ## Game Clock Usage 
 
